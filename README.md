@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi
+
+Just cleaning up my github profile a bit.
+Nothing very important happening rn!
 
 <!--
 **FrozenGamer1640/FrozenGamer1640** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
